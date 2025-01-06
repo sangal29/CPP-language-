@@ -1,4 +1,5 @@
-///  program to find the persen is capable for vote or note using if else conditon .
+///  program to find the persen is capable for vote or note using if else conditon.
+// program
 
 #include <iostream>
 using namespace std;
