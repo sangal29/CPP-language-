@@ -1,4 +1,5 @@
 // leetcode problm 540 single element in the shorted array  this is brute force approch for the problem 
+// this is noral changr 
 
 #include<iostream>
 using namespace std;
