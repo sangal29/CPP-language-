@@ -1,4 +1,4 @@
-// Program teel us the grade system usig if else if coditon  and && oprator 
+// Program teel us the grade system usig if else if coditon  and && oprator ....
 
 #include <iostream>
 using namespace std;
