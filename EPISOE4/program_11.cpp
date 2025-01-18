@@ -1,5 +1,5 @@
 //  print a sqr numer pattern using  nested loop 
-
+.
 //  output 
 
 // 1 2 3 4 
