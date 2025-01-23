@@ -1,4 +1,4 @@
-//  print the factorial of n numberr...
+//  print the factorial of n numberr
 
 #include<iostream>
 using namespace std;
