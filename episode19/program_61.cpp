@@ -1,5 +1,5 @@
 
-// leet code problem 852 peak mountain elemnt 
+// leet code problem 852 peak mountain elemnt .
 
 #include<iostream>
 #include<vector>
