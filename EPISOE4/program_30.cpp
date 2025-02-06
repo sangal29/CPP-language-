@@ -1,4 +1,4 @@
-// write a pattern
+// // write a pattern
 //     outoput 
 //                  1
 //              1   2   1
