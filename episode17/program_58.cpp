@@ -1,5 +1,5 @@
 //  to find the target value using binary search algorth using function 
-//
+
 
 #include<iostream>
 #include<vector>
