@@ -1,5 +1,6 @@
 
 // 35. write a code to convert decimal to binary 
+//
 
 #include <iostream>
 using namespace std;
