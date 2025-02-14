@@ -1,6 +1,5 @@
 //  this program tell the pair sum is equal to target value 
 //  this is  brute force approch to solve the probelem
-//
   
 #include <iostream>
 #include <vector>
