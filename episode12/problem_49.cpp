@@ -1,4 +1,4 @@
-// //  This program tell us how to sole major < n/2
+//   This program tell us how to sole major < n/2
 
 #include <iostream>
 #include <vector>
