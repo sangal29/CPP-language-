@@ -1,5 +1,6 @@
 //  39.. write a program of finding min of the array list 
 
+
 //  method 1 using implicit fuction 
 
 
