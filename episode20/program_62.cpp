@@ -1,6 +1,4 @@
 // leetcode problm 540 single element in the shorted array  this is brute force approch for the problem 
-
-
 #include<iostream>
 using namespace std;
 int main()
