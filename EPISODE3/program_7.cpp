@@ -1,4 +1,5 @@
 
+
 //  Program to print number is prime or not 
 
 
