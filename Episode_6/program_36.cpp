@@ -1,4 +1,5 @@
 
+
 // 36. Write a preogram of series 1 to n of decimal to binary 
 
 
