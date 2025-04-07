@@ -1,7 +1,5 @@
 
 
-
-
 //  PRogram to check the prime number from 1 to n.
 #include <iostream>
 using namespace std;
