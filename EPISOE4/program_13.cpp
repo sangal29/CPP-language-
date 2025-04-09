@@ -1,5 +1,4 @@
 
-
 //  print thee pattern in incresing order 
 // output:
 // 1 2 3
