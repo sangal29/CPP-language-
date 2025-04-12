@@ -2,7 +2,6 @@
 
 
 
-
 40. write  a program tell that the target value is in the scope or not .
 
 #include <iostream>
