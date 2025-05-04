@@ -1,3 +1,4 @@
+
 //  program to print the floyd triangle pattern 
 //     output:
 //     1
